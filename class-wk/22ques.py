@@ -1,5 +1,5 @@
 lang1=lang2=lang3="Python"
 
-print(lang1,lang2,lang3)
+print(lang1, "\n", lang2, "\n", lang3)
 
-#how write in next line all three variable
+# write in next line all three variable

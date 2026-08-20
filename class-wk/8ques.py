@@ -6,4 +6,4 @@ print(name, "scored", marks, "marks ")
 
 print(name ,"scored "+ str(marks),"marks")
 
-print(f"{name} second{marks} marks")
+print(f"{name} scored{marks} marks")

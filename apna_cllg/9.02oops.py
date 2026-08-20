@@ -1,0 +1,17 @@
+class student:
+
+    #default constructor 
+    def __init__(self):
+     pass
+
+    #parameterized constructor
+    def __init__ (self, name , marks):
+        self.name=name
+        self.marks=marks
+        print ("aading new student in database..")
+
+s1 = student("karan",97)
+print (s1.name, s1.marks)
+
+s2 = student("arjun", 88)
+print (s2.name,s2.marks)
